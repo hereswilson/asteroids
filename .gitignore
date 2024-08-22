@@ -1,4 +1,2 @@
 /venv
-__pycache__/constants.cpython-310.pyc
-__pycache__/player.cpython-310.pyc
-__pycache__/circleshape.cpython-310.pyc
+/__pycache__
